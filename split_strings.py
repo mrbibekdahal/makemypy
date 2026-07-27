@@ -1,2 +1,2 @@
 p = "Python,World"
-print(p.split())
+print(p.split(','))

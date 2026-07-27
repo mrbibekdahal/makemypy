@@ -1,4 +1,4 @@
-#list is changeable, ordered, duplicates
+#list is changeable, ordered, duplicates,sign []
 
 store = ["coke","fanta","redbull","water","juice"]
 print(store)
