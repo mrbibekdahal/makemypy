@@ -1,3 +1,4 @@
+#Dictionary is ordered,changeable,noduplicates,
 thisdict = {
   "name" : "Abhi",
   "address" :"Asia",
